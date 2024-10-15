@@ -1,0 +1,8 @@
+{
+  "pieces.autocomplete": true,
+  "pieces.closeSnippetEditorOnSave": true,
+  "pieces.exploredSnippetInsights.documentWithPiecesInsights": true,
+  "pieces.exploredSnippetInsights.exploreAndSave": true,
+  "pieces.OS.autoLaunchOnInteraction": true,
+  "pieces.relatedMaterials.autoSaveRelatedMaterialSelection": true
+}
